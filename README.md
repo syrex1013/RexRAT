@@ -1,4 +1,4 @@
-# RexRAT
+# ReXRaT
 RexRat is Remote Administration Tool. The package includes:    
 1.ReXCrypter - 1/38 Crypter for your server.   
 2.ReXStub - Very good stub  
