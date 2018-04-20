@@ -25,4 +25,6 @@ If you want to control it, then click on ID of any computer.
 And now I think you know what to do :DD  
 
 # What not to do.
-When you start keylogger your app will freeze. It is normal. I didn't set it up as asynchronous task so it will freeze. (I will change it in another update). The same is when you are downloading files.
+When you start keylogger your app will freeze. It is normal. I didn't set it up as asynchronous task so it will freeze. (I will change it in another update). The same is when you are downloading files.   
+
+Remember, I've created it for educational use only. Please use it in right way. 
